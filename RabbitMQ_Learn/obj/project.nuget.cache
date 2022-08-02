@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwU0c0bMUl8xktNIDx0tkEQvW6oncTAWtgL/goJ6C+iQXQbQbl3EsaCLCHTxRqdUc9GXaIn/XjokudqD2LpGag==",
+  "success": true,
+  "projectFilePath": "/Users/decagon/RabbitMQ_Learn/RabbitMQ_Learn.csproj",
+  "expectedPackageFiles": [
+    "/Users/decagon/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/decagon/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/decagon/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/decagon/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
